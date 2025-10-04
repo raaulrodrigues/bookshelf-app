@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "genre": "Literatura Brasileira",
+    "year": 1899,
+    "pages": 256,
+    "rating": 5,
+    "synopsis": "Uma das obras-primas da literatura brasileira, narrada pelo ciumento Bentinho.",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81+iN4V2+tL.jpg"
+  },
+  {
+    "id": "2",
+    "title": "O Guia do Mochileiro das Galáxias",
+    "author": "Douglas Adams",
+    "genre": "Ficção Científica",
+    "year": 1979,
+    "pages": 208,
+    "rating": 5,
+    "synopsis": "A saga intergaláctica de Arthur Dent após a destruição da Terra.",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81eI0N45-SL.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programação",
+    "year": 2008,
+    "pages": 464,
+    "rating": 5,
+    "synopsis": "Um guia essencial para escrever código limpo, legível e manutenível.",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/41xShlnlJiL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": "4",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Ficção",
+    "year": 1949,
+    "pages": 328,
+    "rating": 4,
+    "synopsis": "Uma distopia sombria sobre um regime totalitário que controla todos os aspectos da vida.",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/819js3EQwbL.jpg"
+  },
+  {
+    "id": "5",
+    "title": "A Psicologia Financeira",
+    "author": "Morgan Housel",
+    "genre": "Negócios",
+    "year": 2020,
+    "pages": 304,
+    "rating": 4,
+    "synopsis": "Lições atemporais sobre riqueza, ganância e felicidade.",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71wdaL4qj8L.jpg"
+  }
+]
